@@ -1,0 +1,4 @@
+/index.md          ← portada con YAML header y contenido principal
+/research.md      ← sección “Research”
+/publications.md  ← sección “Publications”
+/news.md          ← section “News”
